@@ -31,3 +31,5 @@ Current measured battle update rates:
 - **MEDIAN OVERALL IS APPROX 56-57FPS**
 
 The native target is **59.64 updates/sec**. Sustained full-speed gameplay remains unfinished, and physical CPS2/Darksoft testing is still pending.
+
+The base multilingual Phoenix rom patch is credited to CPS-2 Shock: https://cps2shock.emu-france.info/
