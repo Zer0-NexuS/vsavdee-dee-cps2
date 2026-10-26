@@ -8,7 +8,7 @@
 ╚══════╝╚══════╝ ╚═════╝
 ```
 
-**VAMPIRE SAVIOR + DEE — TEST12 PATCH GUIDE**
+**VAMPIRE SAVIOR + DEE — BETA 12 PATCH GUIDE**
 
 1. Extract the patcher ZIP and open **vampire-dee-patcher.exe**.
 2. Drag your original, unmodified **vsavd.zip** into the window. Keep it zipped.
