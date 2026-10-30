@@ -8,8 +8,6 @@
 ╚══════╝╚══════╝ ╚═════╝
 ```
 
-**CURRENTLY DOES NOT GET PAST AUTO-LOAD SCREEN ON HARDWARE. WORKING TO FIX & CREATING GDEMU COMPLETE GDI AS WELL**
-
 **VAMPIRE SAVIOR + DEE — BETA 12 PATCH GUIDE**
 
 1. Extract the patcher ZIP and open **vampire-dee-patcher.exe**.
